@@ -1,0 +1,18 @@
+{
+  "reactAdmin.deleteMutation.promptDelete": "Datensatz löschen?",
+  "reactAdmin.dirtyHandler.discardChanges": "Nicht gespeicherte Änderungen verwerfen?",
+  "reactAdmin.generic.add": "Hinzufügen",
+  "reactAdmin.generic.back": "Zurück",
+  "reactAdmin.generic.cancel": "Abbrechen",
+  "reactAdmin.generic.delete": "Löschen",
+  "reactAdmin.generic.edit": "Bearbeiten",
+  "reactAdmin.generic.no": "Nein",
+  "reactAdmin.generic.ok": "OK",
+  "reactAdmin.generic.save": "Speichern",
+  "reactAdmin.generic.yes": "Ja",
+  "reactAdmin.table.excelExportButton": "Export",
+  "reactAdmin.table.localChangesToolbar.unsavedItems": "",
+  "reactAdmin.table.pagination.pageInfo": "Seite {current} von {total}",
+  "reactAdmin.table.tableFilterFinalForm.resetButton": "Filter zurücksetzen",
+  "reactAdmin.table.tableQuery.error": "Fehler :( {error}"
+}
