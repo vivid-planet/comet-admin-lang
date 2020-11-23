@@ -1,0 +1,18 @@
+{
+  "reactAdmin.deleteMutation.promptDelete": "Delete item?",
+  "reactAdmin.dirtyHandler.discardChanges": "Discard unsaved changes?",
+  "reactAdmin.generic.add": "Add",
+  "reactAdmin.generic.back": "Back",
+  "reactAdmin.generic.cancel": "Cancel",
+  "reactAdmin.generic.delete": "Delete",
+  "reactAdmin.generic.edit": "Edit",
+  "reactAdmin.generic.no": "No",
+  "reactAdmin.generic.ok": "OK",
+  "reactAdmin.generic.save": "Save",
+  "reactAdmin.generic.yes": "Yes",
+  "reactAdmin.table.excelExportButton": "Export",
+  "reactAdmin.table.localChangesToolbar.unsavedItems": "{count, plural, =0 {No unsaved changes} one {# unsaved change} other {# unsaved changes}}",
+  "reactAdmin.table.pagination.pageInfo": "Page {current} of {total}",
+  "reactAdmin.table.tableFilterFinalForm.resetButton": "Reset filter",
+  "reactAdmin.table.tableQuery.error": "Error :( {error}"
+}
